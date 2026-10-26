@@ -1,4 +1,4 @@
-<img width="1917" height="742" alt="image" src="https://github.com/user-attachments/assets/a07028af-b1e2-47ca-b75d-e1a6880fe811" /># VIGENERE-CIPHER
+# VIGENERE-CIPHER
 ## EX. NO: 4
  
 
