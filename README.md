@@ -99,3 +99,4 @@ return 0;
 <img width="1917" height="742" alt="Screenshot 2026-10-26 103450" src="https://github.com/user-attachments/assets/6efbbfa4-36be-4706-ab2f-0e4e70c4e759" />
 
 ## RESULT
+The implementation of VIGENERE-CIPHER using c program is successful.
